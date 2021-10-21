@@ -1,23 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**D4rkP0w4r/D4rkP0w4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=D4rkP0w4r&title=Hacker_views)</br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-:computer: 
-:computer: 
-:computer: 
-
+🐱‍💻🐱‍💻🐱‍💻🐱‍💻 🐱‍👤🐱‍👤🐱‍👤🐱‍👤 
 
 👋 Hi !!!, I'm Phu Hung, you can call me D4rkP0w4r. My hobby are hacking, exploited web vulnerabilities. I learned a lot of experiences when participating in competitions about CTF, and researching imformation security knowledges
 
@@ -26,7 +11,7 @@ Here are some ideas to get you started:
 
 ### 🔖 Find me on:
 
-|:man: :computer:|
+|🐱‍💻 💻|
 |-|
 |🐾 [Personal](https://github.com/D4rkP0w4r)|      
 |🦑 [Gists](https://gist.github.com/D4rkP0w4r)|
@@ -36,8 +21,8 @@ Here are some ideas to get you started:
 
 |CTF|Certifications|
 |---|---|
-|1st HUTECH CTF|   |
-|7th HCMUS-CTF-2021-AQUALS|   |
+|1st HUTECH CTF|🐱‍👤🐱‍👤🐱‍👤|
+|7th HCMUS-CTF-2021-AQUALS|🐱‍👤🐱‍👤🐱‍👤|
 
 
 ![d4rkp0w4r github trophy](https://github-profile-trophy.vercel.app/?username=D4rkP0w4r&theme=onedark)
