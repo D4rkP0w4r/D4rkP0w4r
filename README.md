@@ -23,6 +23,7 @@
 |---|---|
 |1st HUTECH CTF|🐱‍👤🐱‍👤🐱‍👤|
 |7th HCMUS-CTF-2021-AQUALS|🐱‍👤🐱‍👤🐱‍👤|
+|28th idekCTF 2021|🐱‍👤🐱‍👤🐱‍👤|
 
 
 ![d4rkp0w4r github trophy](https://github-profile-trophy.vercel.app/?username=D4rkP0w4r&theme=onedark)
