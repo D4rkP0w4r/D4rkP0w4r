@@ -15,6 +15,14 @@
     <img title="🔥 Hacked By d4rkp0w4r" alt="D4rkp0w4r's streak" src="https://github-readme-streak-stats.herokuapp.com?user=D4rkP0w4r&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&dates=DD6F9A"/></p>
 
 
+
+## Research Platforms
+<br>
+<img align="left" alt="noobpk | Hackthebox" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />
+<img align="left" alt="noobpk | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />
+<img align="left" alt="noobpk | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />
+</br>
+
 ## 🔎 CVEs
 | ID | CVSS  | Vector | Score |
 | :---:         |     :---:      | :---: |   :---: |
