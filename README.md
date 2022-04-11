@@ -23,8 +23,8 @@
 <img align="left" alt="noobpk | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />
 </br>
 
-## 🔎 CVEs
-|ID|CVSS Vector|Score
+## 🔎 CVES
+|CVES-ID|CVSS Vector|Score
 |---|---|---|
 |[CVE-2022-26624](https://nvd.nist.gov/vuln/detail/CVE-2022-26624)|-|-|
 |[CVE-2022-27061](https://nvd.nist.gov/vuln/detail/CVE-2022-27061)|-|-|
