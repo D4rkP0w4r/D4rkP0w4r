@@ -27,9 +27,9 @@
 |ID|CVSS Vector|Score
 |---|---|---|
 |[CVE-2022-26624](https://nvd.nist.gov/vuln/detail/CVE-2022-26624)|-|-|
-|[CVE-2022-27061](https://nvd.nist.gov/vuln/detail/CVE-2022-27061)|-|-|
+|[CVE-2022-27061](https://nvd.nist.gov/vuln/detail/CVE-2022-27061)|CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H|7.2 HIGH|
 |[CVE-2022-27062](https://nvd.nist.gov/vuln/detail/CVE-2022-27062)|-|-|
-|[CVE-2022-27063](https://nvd.nist.gov/vuln/detail/CVE-2022-27063)|-|-|
+|[CVE-2022-27063](https://nvd.nist.gov/vuln/detail/CVE-2022-27063)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 MEDIUM|
 |[CVE-2022-27991](https://nvd.nist.gov/vuln/detail/CVE-2022-27991)|-|-|
 
     
