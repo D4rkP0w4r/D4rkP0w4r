@@ -18,9 +18,11 @@
 
 ## Research Platforms
 <br>
+<img align="left" alt="noobpk | Bugcrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" alt="noobpk | Hackthebox" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />
 <img align="left" alt="noobpk | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />
 <img align="left" alt="noobpk | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />
+<img align="left" alt="noobpk | Bugcrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg"/>
 </br>
 
 ## 🔎 CVES
@@ -33,21 +35,38 @@
 |[CVE-2022-27357](https://nvd.nist.gov/vuln/detail/CVE-2022-27357)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
 |[CVE-2022-27351](https://nvd.nist.gov/vuln/detail/CVE-2022-27357)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
 |[CVE-2022-27351](https://nvd.nist.gov/vuln/detail/CVE-2022-27357)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
+   
+<hr>
 
-    
-## 🏆 Achievements
-|Capture The Flag|
-|---|
-|`1st HUTECH CTF`|
-|`7th HCMUS-CTF-2021-AQUALS`|
-|`28th idekCTF 2021`|
-|`11th Cyber Grabs CTF 0x03 Junior 2022`|
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.php.net/docs.php" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/en/docs/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://docs.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+</p>
 
-### 👨‍💻 Programming languages
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    
-
+<hr>
 
 ## 📊 Github stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=D4rkP0w4r&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
