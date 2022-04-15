@@ -26,11 +26,13 @@
 ## 🔎 CVES
 |ID|CVSS Vector|Score
 |---|---|---|
-|[CVE-2022-26624](https://nvd.nist.gov/vuln/detail/CVE-2022-26624)|-|-|
-|[CVE-2022-27061](https://nvd.nist.gov/vuln/detail/CVE-2022-27061)|CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H|7.2 HIGH|
-|[CVE-2022-27062](https://nvd.nist.gov/vuln/detail/CVE-2022-27062)|-|-|
-|[CVE-2022-27063](https://nvd.nist.gov/vuln/detail/CVE-2022-27063)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 MEDIUM|
-|[CVE-2022-27991](https://nvd.nist.gov/vuln/detail/CVE-2022-27991)|-|-|
+|[CVE-2022-26624](https://nvd.nist.gov/vuln/detail/CVE-2022-26624)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 MEDIUM|
+|[CVE-2022-28002](https://nvd.nist.gov/vuln/detail/CVE-2022-28002)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N|7.5 HIGH|
+|[CVE-2022-27064](https://nvd.nist.gov/vuln/detail/CVE-2022-27064)|CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H|8.8 HIGH|
+|[CVE-2022-28001](https://nvd.nist.gov/vuln/detail/CVE-2022-28001)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
+|[CVE-2022-27357](https://nvd.nist.gov/vuln/detail/CVE-2022-27357)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
+|[CVE-2022-27351](https://nvd.nist.gov/vuln/detail/CVE-2022-27357)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
+|[CVE-2022-27351](https://nvd.nist.gov/vuln/detail/CVE-2022-27357)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
 
     
 ## 🏆 Achievements
