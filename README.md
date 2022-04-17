@@ -34,10 +34,11 @@
 |[CVE-2022-27064](https://nvd.nist.gov/vuln/detail/CVE-2022-27064)|CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H|8.8 HIGH|
 |[CVE-2022-27992](https://nvd.nist.gov/vuln/detail/CVE-2022-27992)|CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H|8.8 HIGH|
 |[CVE-2022-27346](https://nvd.nist.gov/vuln/detail/CVE-2022-27346)|CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H|8.8 HIGH|
+|[CVE-2022-27352](https://nvd.nist.gov/vuln/detail/CVE-2022-27352)|CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H|8.8 CRITICAL|
 |[CVE-2022-28001](https://nvd.nist.gov/vuln/detail/CVE-2022-28001)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
 |[CVE-2022-27357](https://nvd.nist.gov/vuln/detail/CVE-2022-27357)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
-|[CVE-2022-27351](https://nvd.nist.gov/vuln/detail/CVE-2022-27357)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
-|[CVE-2022-27351](https://nvd.nist.gov/vuln/detail/CVE-2022-27357)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
+|[CVE-2022-27351](https://nvd.nist.gov/vuln/detail/CVE-2022-27351)|CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H|9.8 CRITICAL|
+
    
 <hr>
 
