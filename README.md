@@ -62,10 +62,4 @@
 
 <hr>
 
-## 📊 Github stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=D4rkP0w4r&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![d4rkp0w4r github stats](https://github-readme-stats.vercel.app/api?username=D4rkP0w4r&count_private=true&show_icons=true&include_all_commits=true&theme=vue)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkP0w4r&layout=compact&theme=buefy)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=D4rkp0w4r&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 
