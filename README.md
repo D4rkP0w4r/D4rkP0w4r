@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hacked%20By%20d4rkp0w4r&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-👋 Hi !!!, you can call me Bryan My hobby are hacking, exploited web vulnerabilities. I learned a lot of experiences when participating in competitions about CTF, and researching information security knowledges
+👋 Hi !!!, you can call me Alice My hobby are hacking, exploited web vulnerabilities. I learned a lot of experiences when participating in competitions about CTF, and researching information security knowledges
 
 ## 🔥 Streak stats
 
